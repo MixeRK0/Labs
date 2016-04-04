@@ -15,7 +15,7 @@ void main()
 	  a=a/10;
 	  i++;
 	  }
-	  printf("\n\Amount of numbers=%i",i);
+	  printf("\nAmount of numbers=%i",i);
  b=mas[i-1];
  mas[i-1]=mas[0];
  mas[0]=b;

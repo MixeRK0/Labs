@@ -17,6 +17,6 @@ void main()
   max=a2<b ? b : a2;
   min=x<y ? (z<x ? z : x)
 	  : (z<y ? z : y);
-  printf("\n Max=%i   Min=%i",max,min);
+  printf("\n Maximum value=%i   Minimum value=%i",max,min);
   getch();
  }

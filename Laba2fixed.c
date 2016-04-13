@@ -6,7 +6,7 @@ void main()
 {
 	char CMax, CMin, CVal, LMax2C, LMin2C, LVal2C;
 	short int CMax2ShInt, CMin2ShInt, CVal2ShInt, LMax2ShInt, LMin2ShInt, LVal2ShInt;
-	int CMax2Int, CMin2Int, CVal2Int, LMax2Int, LMin2Int, LVal2Int, IntMax, IntMin; unsigned  int  uu1 z2 c2 w2
+	int CMax2Int, CMin2Int, CVal2Int, LMax2Int, LMin2Int, LVal2Int, IntMax, IntMin;
 	long CMax2Long, CMin2Long, CVal2Long, LMax, LMin, LVal;
 
 	unsigned char uCMax, uCMin, uCVal, uLMax2C, uLMin2C, uLVal2C;

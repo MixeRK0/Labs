@@ -7,7 +7,7 @@ void main()
 	clrscr();
 
 	printf(" Enter value a= ");
-	scanf("%i", &Numer);
+	scanf("%i", &Number);
 
 	NumDeg2 = Number*Number;
 	Number = NumDeg2*NumDeg2*NumDeg2*Number;
